@@ -52,3 +52,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Springy22&theme=dark&hide_border=true"/>
 </p>
+
+<div align="center" style="margin-top: 50px;">
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+</div>
