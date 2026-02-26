@@ -5,6 +5,7 @@
 <h1 align="center">
   Hi, I'm Iván Alfaro
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="28">
 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
@@ -51,10 +52,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Springy22&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdpcDdiNnN3NGVmZ3k0cHF2dWtodDdzOXcyajIyZWxzYXZ2ZWRnaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oHaAF2EUutRzXGSw4K/giphy.gif"/>
 </p>
 
 <div align="center" style="margin-top: 50px;">
