@@ -33,8 +33,8 @@
 </p>
 🎮 &nbsp;Gaming
 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)&nbsp;
-![EpicGames](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)&nbsp;
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/puppytron12/)&nbsp;
+[![EpicGames](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/u/57852038ed3a4d79a60cadc2b3ba1eca)&nbsp;
 </p>
 <p><br></p>
 <p><br></p>
