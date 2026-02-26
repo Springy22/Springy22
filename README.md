@@ -53,6 +53,10 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Springy22&theme=dark&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdpcDdiNnN3NGVmZ3k0cHF2dWtodDdzOXcyajIyZWxzYXZ2ZWRnaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oHaAF2EUutRzXGSw4K/giphy.gif"/>
+</p>
+
 <div align="center" style="margin-top: 50px;">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </div>
